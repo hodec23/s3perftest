@@ -1,0 +1,9 @@
+---
+s3:
+  endpoint: https://object.ecstestdrive.com
+  access_key: <your access key>
+  secret_key: <your secret key>
+  region: us-east-1
+# Empty for no logging, or
+# LogDebugWithSigning/LogDebugWithHTTPBody/LogDebugWithRequestRetries/LogDebugWithRequestErrors
+loglevel:
